@@ -1,0 +1,97 @@
+﻿id,Sample Code,Soil Gen Source,range,Soil Site,patch,sourceCode,Sample Name,sample type,used as inoc,feature count,observed_otus,shannon_r1000
+16S_1,MF1,Field Soil,Native,GRA,nonYST,GRA_nonYST,GRA F25,core,no,84796,207,7.199411068
+16S_106,M39,Field Soil,Invaded,LEB,YST,LEB_YST,LEB YST Bulk 15A,bulk,yes,48110,134,6.522234673
+16S_107,M211,Field Soil,Invaded,LEB,nonYST,LEB_nonYST,LEB Field 9,core,no,10306,47,4.89074243
+16S_108,M23,Field Soil,Native,CAN,nonYST,CAN_nonYST,CAN F20,core,no,49408,182,6.970570488
+16S_109,M31,Field Soil,Invaded,TRI,nonYST,TRI_nonYST,TRI Field Bulk 15B,bulk,no,47614,152,6.685629852
+16S_110,M32,Field Soil,Invaded,LEB,nonYST,LEB_nonYST,LEB Field Bulk 20A,bulk,yes,31107,96,6.072392591
+16S_111,M33,Field Soil,Invaded,LEB,YST,LEB_YST,LEB YST 17,core,no,24809,89,5.848268063
+16S_112,M34,Field Soil,Invaded,TRI,nonYST,TRI_nonYST,TRI Field Bulk 10B,bulk,no,29859,102,6.110622135
+16S_113,M36,Field Soil,Invaded,GIL,nonYST,GIL_nonYST,GIL Field Bulk 25C,bulk,yes,72416,204,7.205821082
+16S_114,M35,Field Soil,Invaded,TRI,nonYST,TRI_nonYST,TRI Field Bulk 25B,bulk,no,9957,41,4.629570826
+16S_115,MF4,Field Soil,Native,GRA,nonYST,GRA_nonYST,GRA F21,core,no,23620,108,6.123090454
+16S_116,MF5,Field Soil,Native,GRA,nonYST,GRA_nonYST,GRA F23,core,no,21990,113,6.187103672
+16S_118,M41,Field Soil,Invaded,GIL,nonYST,GIL_nonYST,GIL Field Bulk 5A,bulk,no,50853,172,6.895364158
+16S_119,M212,Field Soil,Invaded,LEB,nonYST,LEB_nonYST,LEB Field 25,core,no,13873,60,5.208946892
+16S_120,M24,Field Soil,Native,CAN,nonYST,CAN_nonYST,CAN F10,core,no,52025,212,7.215657628
+16S_13,MF33,Field Soil,Native,GRA,YST,GRA_YST,GRA Y07,core,no,1624,14,3.37938238
+16S_130,M204,Field Soil,Invaded,TRI,nonYST,TRI_nonYST,TRI Field Bulk 15C,bulk,no,78960,193,7.076301433
+16S_131,M213,Field Soil,Invaded,LEB,YST,LEB_YST,LEB YST 13,core,no,22110,89,5.95765719
+16S_132,M26,Field Soil,Native,CAN,nonYST,CAN_nonYST,CAN F05,core,no,54509,223,7.249346981
+16S_14,MF34,Field Soil,Native,GRA,YST,GRA_YST,GRA Y15,core,no,238,,
+16S_142,M205,Field Soil,Invaded,TRI,nonYST,TRI_nonYST,TRI Field Bulk 20B,bulk,no,85106,206,7.195870966
+16S_143,M214,Field Soil,Invaded,GIL,nonYST,GIL_nonYST,GIL Field 5,core,no,29888,131,6.433593782
+16S_15,MF35,Field Soil,Native,GRA,YST,GRA_YST,GRA Y01,core,no,7577,56,5.151985858
+16S_154,M206,Field Soil,Invaded,GIL,nonYST,GIL_nonYST,GIL Field Bulk 5B,bulk,no,31535,129,6.386805629
+16S_155,M215,Field Soil,Invaded,LEB,nonYST,LEB_nonYST,LEB Field Bulk 10A,bulk,no,44874,128,6.484907942
+16S_16,MF36,Field Soil,Native,CAZ,nonYST,CAZ_nonYST,CAZ F07,core,no,5210,29,4.24064278
+16S_166,M216,Field Soil,Invaded,LEB,nonYST,LEB_nonYST,LEB Field Bulk 5C,bulk,no,27269,84,5.819096162
+16S_17,MF37,Field Soil,Native,CAZ,nonYST,CAZ_nonYST,CAZ F01,core,no,2174,16,3.413918706
+16S_177,M209,Field Soil,Invaded,GIL,nonYST,GIL_nonYST,GIL Field Bulk 10C,bulk,no,48761,169,6.824274832
+16S_178,M218,Field Soil,Invaded,LEB,YST,LEB_YST,LEB YST 11,core,no,39128,119,6.344665632
+16S_18,MF38,Field Soil,Native,CAZ,nonYST,CAZ_nonYST,CAZ F03,core,no,6598,56,5.296660072
+16S_180,M220,Field Soil,Invaded,LEB,nonYST,LEB_nonYST,LEB Field 19,core,no,15497,63,5.409290087
+16S_189,M210,Field Soil,Invaded,LEB,YST,LEB_YST,LEB YST 15,core,no,55035,150,6.643056204
+16S_19,MF39,Field Soil,Native,CAZ,nonYST,CAZ_nonYST,CAZ F09,core,no,3526,22,3.919242209
+16S_190,M219,Field Soil,Invaded,GIL,nonYST,GIL_nonYST,GIL Field 07,core,no,28459,109,6.179109597
+16S_2,MF2,Field Soil,Native,GRA,nonYST,GRA_nonYST,GRA F29,core,no,38108,127,6.274766571
+16S_20,MF40,Field Soil,Native,CAZ,nonYST,CAZ_nonYST,CAZ F05,core,no,6287,59,5.285729678
+16S_21,M4,Field Soil,Invaded,GIL,nonYST,GIL_nonYST,GIL Field Bulk 20A,bulk,no,886,,
+16S_25,MF6,Field Soil,Native,GRA,YST,GRA_YST,GRA Y Bulk A,bulk,yes,84190,240,7.472565624
+16S_26,MF7,Field Soil,Native,GRA,nonYST,GRA_nonYST,GRA F01,core,no,12178,65,5.173875747
+16S_27,MF8,Field Soil,Native,GRA,nonYST,GRA_nonYST,GRA F03,core,no,5762,39,4.735551332
+16S_28,MF9,Field Soil,Native,GRA,nonYST,GRA_nonYST,GRA F07,core,no,16460,82,5.731735071
+16S_29,MF10,Field Soil,Native,GRA,nonYST,GRA_nonYST,GRA F09,core,no,5435,36,4.71076192
+16S_3,M15,Field Soil,Invaded,RB,nonYST,RB_nonYST,RB Field Bulk 10B,bulk,no,57956,174,6.930388426
+16S_30,MF11,Field Soil,Native,GRA,nonYST,GRA_nonYST,GRA F05,core,no,2104,16,3.554357456
+16S_31,MF12,Field Soil,Native,CAZ,YST,CAZ_YST,CAZ Y03,core,no,1746,13,3.367802298
+16S_32,MF14,Field Soil,Native,CAZ,YST,CAZ_YST,CAZ Y11,core,no,9009,55,5.179860199
+16S_33,M5,Field Soil,Invaded,GIL,nonYST,GIL_nonYST,GIL Field Bulk 25A,bulk,no,4635,27,4.17024116
+16S_37,MF41,Field Soil,Native,GRA,nonYST,GRA_nonYST,GRA F Blk A,bulk,yes,5,,
+16S_38,MF42,Field Soil,Native,CAZ,YST,CAZ_YST,CAZ Y Blk A,bulk,yes,14555,68,5.48602965
+16S_39,M19,Field Soil,Invaded,LEB,nonYST,LEB_nonYST,LEB F01,core,no,14117,58,5.43583646
+16S_4,M16,Field Soil,Invaded,RB,nonYST,RB_nonYST,RB Field Bulk 20C,bulk,no,16435,79,5.6323059
+16S_40,M20,Field Soil,Invaded,TRI,nonYST,TRI_nonYST,TRI F11,core,no,0,,
+16S_41,M27,Field Soil,Invaded,LEB,YST,LEB_YST,LEB Y-23,core,no,14331,58,5.16781775
+16S_42,M28,Field Soil,Invaded,TRI,nonYST,TRI_nonYST,Tri Field Bulk 5A,bulk,no,1726,21,3.848337742
+16S_43,M29,Field Soil,Invaded,LEB,nonYST,LEB_nonYST,LEB Friled Bulk 5A,bulk,no,4158,26,4.234776943
+16S_44,M30,Field Soil,Invaded,TRI,nonYST,TRI_nonYST,TRI Yst Bulk 15A,bulk,yes,19257,72,5.500388253
+16S_45,M6,Field Soil,Invaded,GIL,nonYST,GIL_nonYST,GIL Field 01,core,no,88441,234,7.433454804
+16S_5,M17,Field Soil,Invaded,RB,nonYST,RB_nonYST,RB Field Bulk 5A,bulk,no,9811,56,5.248102578
+16S_57,M7,Field Soil,Invaded,GIL,nonYST,GIL_nonYST,GIL Field Bulk A (5c)?,bulk,no,65855,187,6.981362493
+16S_6,M18,Field Soil,Invaded,LEB,nonYST,LEB_nonYST,LEB F13,core,no,11075,52,5.096348658
+16S_61,MF16,Field Soil,Native,CAZ,YST,CAZ_YST,CAZ Y05,core,no,1627,11,2.799604204
+16S_62,MF17,Field Soil,Native,CAZ,YST,CAZ_YST,CAZ Y09,core,no,2187,13,3.355904304
+16S_63,MF18,Field Soil,Native,CAZ,YST,CAZ_YST,CAZ Y13,core,no,6825,39,4.651346863
+16S_64,MF19,Field Soil,Native,CAZ,YST,CAZ_YST,CAZ Y15,core,no,6601,49,4.834116497
+16S_65,MF22,Field Soil,Native,CAZ,YST,CAZ_YST,CAZ Y17,core,no,3592,23,4.24580174
+16S_66,MF24,Field Soil,Native,CAZ,YST,CAZ_YST,CAZ Y25,core,no,6211,49,4.897915063
+16S_67,MF26,Field Soil,Native,CAZ,YST,CAZ_YST,CAZ Y27,core,no,18294,87,5.756144342
+16S_68,MF27,Field Soil,Native,CAZ,YST,CAZ_YST,CAZ Y19,core,no,3412,22,4.028360746
+16S_69,M8,Field Soil,Invaded,GIL,YST,GIL_YST,GIL YST 09,core,no,58780,183,6.988472631
+16S_7,MF3,Field Soil,Native,GRA,nonYST,GRA_nonYST,GRA F27,core,no,5535,43,4.762839811
+16S_73,MF28,Field Soil,Native,GRA,YST,GRA_YST,GRA Y05,core,no,130,,
+16S_74,MF29,Field Soil,Native,GRA,YST,GRA_YST,GRA Y03,core,no,30474,121,6.330517528
+16S_75,MF30,Field Soil,Native,GRA,YST,GRA_YST,GRA Y11,core,no,1862,18,3.730517861
+16S_76,MF31,Field Soil,Native,GRA,YST,GRA_YST,GRA Y09,core,no,32792,133,6.503771525
+16S_77,M1,Field Soil,Invaded,GIL,YST,GIL_YST,GIL YST B 15A,bulk,no,14922,68,5.400342559
+16S_78,M2,Field Soil,Invaded,GIL,nonYST,GIL_nonYST,GIL Field Bulk 15A,bulk,no,5891,33,4.221430166
+16S_79,M3,Field Soil,Invaded,GIL,nonYST,GIL_nonYST,GIL Field Bulk 10A,bulk,no,28707,121,6.269342496
+16S_80,M14,Field Soil,Invaded,LEB,nonYST,LEB_nonYST,LEB Field Bulk 25A,bulk,no,18771,76,5.694570715
+16S_81,M9,Field Soil,Invaded,RB,nonYST,RB_nonYST,RB Field Bulk 15A,bulk,no,66531,180,6.989745687
+16S_93,MF32,Field Soil,Native,GRA,YST,GRA_YST,GRA Y13,core,no,98610,260,7.585859149
+inv_soil_10,M10,Field Soil,Invaded,RB,nonYST,RB_nonYST,RB Field Bulk 10C,bulk,no,16231,79,5.699838569
+inv_soil_11,M11,Field Soil,Invaded,RB,nonYST,RB_nonYST,RB Field Bulk 15C,bulk,no,61787,174,6.991616473
+inv_soil_12,M12,Field Soil,Invaded,RB,nonYST,RB_nonYST,RB Field Bulk 20B,bulk,no,12640,68,5.383277942
+inv_soil_13,M13,Field Soil,Invaded,RB,nonYST,RB_nonYST,RB Field Bulk 5B,bulk,no,21650,84,5.760430698
+inv_soil_207,M207,Field Soil,Invaded,TRI,nonYST,TRI_nonYST,TRI Field Bulk 10C,bulk,no,37911,113,6.350696624
+inv_soil_217,M217,Field Soil,Invaded,LEB,nonYST,LEB_nonYST,LEB Field 17,core,no,10352,50,4.983557231
+inv_soil_37,M37,Field Soil,Invaded,TRI,nonYST,TRI_nonYST,TRI Field Bulk 10A,bulk,no,21293,92,5.936327537
+inv_soil_38,M38,Field Soil,Invaded,TRI,nonYST,TRI_nonYST,TRI Frield Bulk 15A,bulk,no,7950,43,4.840427837
+inv_soil_40,M40,Field Soil,Invaded,GIL,YST,GIL_YST,GIL YST Bulk 15B,bulk,yes,5710,42,4.879610858
+nat_soil_F13,MF13,Field Soil,Native,CAZ,YST,CAZ_YST,CAZ Y07,core,no,12052,58,4.952114818
+nat_soil_F15,MF15,Field Soil,Native,CAZ,YST,CAZ_YST,CAZ Y01,core,no,19929,74,5.525515304
+nat_soil_F20,MF20,Field Soil,Native,GRA,YST,GRA_YST,GRA Y Bulk B,bulk,no,6240,43,4.937725408
+nat_soil_F21,MF21,Field Soil,Native,CAZ,YST,CAZ_YST,CAZ Y21,core,no,15287,60,5.210537989
+nat_soil_F23,MF23,Field Soil,Native,CAZ,YST,CAZ_YST,CAZ Y23,core,no,1376,12,3.387039063
+nat_soil_F25,MF25,Field Soil,Native,CAZ,YST,CAZ_YST,CAZ Y29,core,no,8915,42,4.740622216
